@@ -51,7 +51,7 @@ async function getSongs(folder) {
         });
     });
 
-    return songs;
+    
 }
  
 
