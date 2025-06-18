@@ -1,5 +1,6 @@
 console.log('Lets write JavaScript');
 let currentSong = new Audio();
+const baseRepoPath = "/Spotify-clone/"; 
 let songs;
 let currFolder;
 
