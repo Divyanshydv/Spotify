@@ -1,4 +1,8 @@
 {
     "title":"Jazz",
-    "description":"Talha Anjum,Kisore Kumar"
+    "description":"Talha Anjum,Kisore Kumar",
+    "cover": "cover.jpg",
+    "songs": ["Ikk Kudi - Asees Kaur Version-320kbps.mp3",
+        "This Snow Doesn't - pATCHES (1) - Copy.mp3"
+    ]
 }
